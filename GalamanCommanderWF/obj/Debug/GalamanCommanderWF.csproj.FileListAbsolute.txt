@@ -1,0 +1,10 @@
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\bin\Debug\GalamanCommanderWF.exe.config
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\bin\Debug\GalamanCommanderWF.exe
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\bin\Debug\GalamanCommanderWF.pdb
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.Form1.resources
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.Properties.Resources.resources
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.csproj.GenerateResource.cache
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.exe
+c:\users\user\source\repos\GalamanCommanderWF\GalamanCommanderWF\obj\Debug\GalamanCommanderWF.pdb
