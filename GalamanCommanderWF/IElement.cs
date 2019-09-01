@@ -11,7 +11,9 @@ namespace GalamanCommanderWF
         string FullPath { get; set; }
         string Name();
         string Copy(string destination);
+      
         string Move(string destination);
+       
         string Delete();
         string Rename(string newName);
         string Properties();
